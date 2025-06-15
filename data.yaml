@@ -1,0 +1,24 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['Earth', 'Jupiter', 'Mars', 'Mercury', 'Neptune', 'Saturn', 'Uranus', 'Venus']
+
+Türkçe Ek Açıklama:
+
+    Bu veri kümesi, gezegen görüntülerini tanıma, sınıflandırma ve takip etme amacıyla derlenmiştir. Görseller sentetik ya da teleskop simülasyonları ile elde edilmiş olabilir. Eğitim, doğrulama ve test klasörleri dengeli biçimde dağıtılmıştır.
+
+    Her sınıf (Earth, Mars, vb.) için yeterli sayıda örnek mevcuttur. YOLOv5 ve Ultralytics modelleriyle tam uyumludur. Eğitim süreci için önerilen boyut 640x640’tır.
+
+    Bu veri kümesi, uzay bilimleri, gök cismi tespiti, yapay zekâ tabanlı teleskop sistemleri gibi alanlarda araştırma yapmak isteyen geliştiriciler, öğrenciler ve araştırmacılar için uygundur.
+
+English Extra Description:
+
+    This dataset is suitable for planetary image recognition, classification, and tracking tasks. Images might be generated synthetically or via telescope simulations.
+
+    Training, validation, and testing folders are evenly distributed. Each class (e.g., Earth, Mars) has sufficient examples. The dataset is fully compatible with YOLOv5 and Ultralytics pipelines, with recommended image size of 640x640.
+
+    Ideal for researchers, developers, and students working in the fields of astronomy, planetary science, AI-assisted telescopic systems, or educational projects.
+    
+    
