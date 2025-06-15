@@ -101,7 +101,7 @@ This dataset is released under a **custom license**. Please contact the maintain
 
 ## ✨ Maintainer
 
-**Burak Kurt** – [LinkedIn](https://www.linkedin.com/in/burak-kurt) • [GitHub](https://github.com/burakkurt)
+**Burak Kurt** – [LinkedIn](https://www.linkedin.com/in/burakkurtt) • [Medium](https://medium.com/@burak-kurt)
 
 ---
 
